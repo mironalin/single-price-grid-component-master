@@ -49,6 +49,7 @@ body {
 .card {
     border-radius: 0.5rem;
     overflow: hidden;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 3px 10px 2px;
 }
 
 .card-component-1 {
